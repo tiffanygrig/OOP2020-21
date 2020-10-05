@@ -34,9 +34,6 @@ class Types_and_Strings:
         # observe what happens, then use replace():
 
 
-        # printing only characters at even index positions:
-
-
     def play_with_lists(self):
         message = input("Please enter a whole sentence: ")
         print("Originally entered: "+ message)
